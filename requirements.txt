@@ -1,6 +1,3 @@
 pandas
 pillow
 openpyxl
-fastapi
-uvicorn[standard]
-python-multipart
